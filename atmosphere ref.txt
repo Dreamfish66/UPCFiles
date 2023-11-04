@@ -1,0 +1,14 @@
+Estimation of multiple skydiving jumps with unscented Kalman filtering
+https://www.sciencedirect.com/science/article/pii/S0167610522001714
+
+middle atmosphere dynamics
+https://books.google.com.hk/books?hl=en&lr=&id=N1oNurYZefAC&oi=fnd&pg=PP9&dq=atmosphere&ots=PCxx36EHlK&sig=hBwiQim14ct8WJn44j2L4z7gBqo&redir_esc=y#v=onepage&q=atmosphere&f=false
+
+physics of the atmosphere and climate
+https://books.google.com.sg/books?hl=en&lr=&id=CeMdwj7J48QC&oi=fnd&pg=PR7&dq=atmosphere&ots=ernLCEg4hI&sig=A8qwiOOfYxfwPX3x0hv9HxjckYw&redir_esc=y#v=onepage&q=atmosphere&f=false
+
+The physics of atmosphere
+https://books.google.com.sg/books?hl=en&lr=&id=K9wGHim2DXwC&oi=fnd&pg=PR10&dq=atmosphere&ots=ui6QvtgAUE&sig=IXtUSVwql7d4zvfbpRKfU4wnv_o&redir_esc=y#v=onepage&q=atmosphere&f=false
+
+Hypersonic flow analysis on an atmospheric re-entry module
+http://www.pnrsolution.org/Datacenter/Vol3/Issue5/125.pdf
